@@ -1,0 +1,2176 @@
+Parameters for process : 22317
+
+I0:200
+
+alpha:0.100000001
+
+beta:0.100000001
+
+sigma:100
+
+rho:200
+
+Step size:9.99999997e-07
+
+PSNR(bicubic & ground truth):-41.0424347
+
+PSNR iteration 0: -41.0425377
+
+PSNR iteration 1: -41.0425911
+
+PSNR iteration 2: -41.042408
+
+PSNR iteration 3: -41.042408
+
+PSNR iteration 4: -41.0424118
+
+PSNR iteration 5: -41.0424271
+
+PSNR iteration 6: -41.0424347
+
+PSNR iteration 7: -41.0424347
+
+Parameters for process : 22900
+
+I0:400
+
+alpha:3
+
+beta:5
+
+sigma:230
+
+rho:325
+
+Step size:9.99999975e-05
+
+PSNR(bicubic & ground truth):-41.0424347
+
+PSNR iteration 0: -41.0425377
+
+PSNR iteration 1: -41.042469
+
+PSNR iteration 2: -41.0425453
+
+PSNR iteration 3: -41.0425644
+
+PSNR iteration 4: -41.0425034
+
+PSNR iteration 5: -41.0424385
+
+PSNR iteration 6: -41.0424232
+
+PSNR iteration 7: -41.0424194
+
+PSNR iteration 8: -41.0423889
+
+PSNR iteration 9: -41.0423851
+
+PSNR iteration 10: -41.0424004
+
+PSNR iteration 11: -41.042408
+
+PSNR iteration 12: -41.042408
+
+PSNR iteration 13: -41.0424042
+
+PSNR iteration 14: -41.0424042
+
+PSNR iteration 15: -41.0424042
+
+PSNR iteration 16: -41.0424042
+
+PSNR iteration 17: -41.042408
+
+PSNR iteration 18: -41.0424118
+
+PSNR iteration 19: -41.042408
+
+Parameters for process : 23562
+
+I0:360
+
+alpha:6.4000001
+
+beta:3.20000005
+
+sigma:345
+
+rho:450
+
+Step size:9.99999975e-06
+
+PSNR(bicubic & ground truth):-41.0424347
+
+PSNR iteration 0: -41.0425377
+
+PSNR iteration 1: -41.042347
+
+PSNR iteration 2: -41.0425072
+
+PSNR iteration 3: -41.0425949
+
+PSNR iteration 4: -41.0425835
+
+PSNR iteration 5: -41.0425377
+
+PSNR iteration 6: -41.0425072
+
+PSNR iteration 7: -41.0424805
+
+PSNR iteration 8: -41.0424652
+
+PSNR iteration 9: -41.0424538
+
+PSNR iteration 10: -41.04245
+
+PSNR iteration 11: -41.0424461
+
+PSNR iteration 12: -41.0424461
+
+PSNR iteration 13: -41.0424423
+
+PSNR iteration 14: -41.0424423
+
+PSNR iteration 15: -41.0424423
+
+PSNR iteration 16: -41.0424423
+
+PSNR iteration 17: -41.0424423
+
+PSNR iteration 18: -41.0424385
+
+PSNR iteration 19: -41.0424385
+
+PSNR iteration 20: -41.0424385
+
+PSNR iteration 21: -41.0424385
+
+PSNR iteration 22: -41.0424385
+
+PSNR iteration 23: -41.0424385
+
+PSNR iteration 24: -41.0424385
+
+PSNR iteration 25: -41.0424385
+
+PSNR iteration 26: -41.0424385
+
+PSNR iteration 27: -41.0424385
+
+PSNR iteration 28: -41.0424385
+
+PSNR iteration 29: -41.0424385
+
+PSNR iteration 30: -41.0424385
+
+PSNR iteration 31: -41.0424347
+
+PSNR iteration 32: -41.0424347
+
+PSNR iteration 33: -41.0424347
+
+PSNR iteration 34: -41.0424347
+
+PSNR iteration 35: -41.0424347
+
+PSNR iteration 36: -41.0424347
+
+PSNR iteration 37: -41.0424347
+
+PSNR iteration 38: -41.0424347
+
+PSNR iteration 39: -41.0424347
+
+PSNR iteration 40: -41.0424347
+
+PSNR iteration 41: -41.0424347
+
+PSNR iteration 42: -41.0424347
+
+PSNR iteration 43: -41.0424347
+
+PSNR iteration 44: -41.0424347
+
+PSNR iteration 45: -41.0424347
+
+PSNR iteration 46: -41.0424347
+
+PSNR iteration 47: -41.0424347
+
+PSNR iteration 48: -41.0424347
+
+PSNR iteration 49: -41.0424347
+
+PSNR iteration 50: -41.0424347
+
+PSNR iteration 51: -41.0424347
+
+PSNR iteration 52: -41.0424347
+
+PSNR iteration 53: -41.0424347
+
+PSNR iteration 54: -41.0424347
+
+PSNR iteration 55: -41.0424347
+
+PSNR iteration 56: -41.0424347
+
+PSNR iteration 57: -41.0424347
+
+PSNR iteration 58: -41.0424347
+
+PSNR iteration 59: -41.0424347
+
+PSNR iteration 60: -41.0424347
+
+PSNR iteration 61: -41.0424347
+
+PSNR iteration 62: -41.0424347
+
+PSNR iteration 63: -41.0424347
+
+PSNR iteration 64: -41.0424347
+
+PSNR iteration 65: -41.0424347
+
+PSNR iteration 66: -41.0424347
+
+PSNR iteration 67: -41.0424347
+
+PSNR iteration 68: -41.0424347
+
+PSNR iteration 69: -41.0424347
+
+PSNR iteration 70: -41.0424347
+
+PSNR iteration 71: -41.0424347
+
+Parameters for process : 24689
+
+I0:250
+
+alpha:5
+
+beta:8.60000038
+
+sigma:348
+
+rho:0.5
+
+Step size:9.99999975e-06
+
+PSNR(bicubic & ground truth):-41.0424347
+
+Parameters for process : 24702
+
+I0:250
+
+alpha:5
+
+beta:8.60000038
+
+sigma:348
+
+rho:0.5
+
+Step size:1.00000001e-07
+
+PSNR(bicubic & ground truth):-41.0424347
+
+Parameters for process : 24728
+
+I0:250
+
+alpha:5
+
+beta:1.70000005
+
+sigma:200
+
+rho:5
+
+Step size:9.99999975e-06
+
+PSNR(bicubic & ground truth):-41.0424347
+
+PSNR iteration 0: -41.0425377
+
+PSNR iteration 1: -41.0420151
+
+Parameters for process : 25744
+
+I0:1000
+
+alpha:0.5
+
+beta:2
+
+sigma:100
+
+rho:9
+
+Step size:1.00000001e-07
+
+PSNR(bicubic & ground truth):44.105648
+
+Parameters for process : 25825
+
+I0:300
+
+alpha:0.5
+
+beta:2
+
+sigma:100
+
+rho:9
+
+Step size:1.00000001e-07
+
+PSNR(bicubic & ground truth):44.105648
+
+PSNR iteration 0: 40.5427589
+
+PSNR iteration 1: 37.7456207
+
+PSNR iteration 2: 38.1846504
+
+PSNR iteration 3: 40.7751236
+
+PSNR iteration 4: 42.3836708
+
+PSNR iteration 5: 43.4924698
+
+PSNR iteration 6: 43.9168625
+
+PSNR iteration 7: 44.128231
+
+PSNR iteration 8: 44.1344948
+
+PSNR iteration 9: 44.083622
+
+PSNR iteration 10: 43.9982452
+
+PSNR iteration 11: 43.9416618
+
+PSNR iteration 12: 43.9085236
+
+PSNR iteration 13: 43.9044189
+
+PSNR iteration 14: 43.9143791
+
+PSNR iteration 15: 43.9341812
+
+PSNR iteration 16: 43.9571648
+
+PSNR iteration 17: 43.9794617
+
+PSNR iteration 18: 43.999733
+
+PSNR iteration 19: 44.017231
+
+PSNR iteration 20: 44.0316124
+
+PSNR iteration 21: 44.0435371
+
+PSNR iteration 22: 44.0521469
+
+PSNR iteration 23: 44.058754
+
+PSNR iteration 24: 44.0630989
+
+PSNR iteration 25: 44.0660896
+
+PSNR iteration 26: 44.0687752
+
+PSNR iteration 27: 44.0712471
+
+PSNR iteration 28: 44.0730286
+
+PSNR iteration 29: 44.0739403
+
+PSNR iteration 30: 44.0734711
+
+PSNR iteration 31: 44.0745316
+
+PSNR iteration 32: 44.075676
+
+PSNR iteration 33: 44.0760994
+
+PSNR iteration 34: 44.0762939
+
+PSNR iteration 35: 44.0761528
+
+PSNR iteration 36: 44.0767097
+
+PSNR iteration 37: 44.0771141
+
+PSNR iteration 38: 44.0776138
+
+PSNR iteration 39: 44.0792923
+
+PSNR iteration 40: 44.0801239
+
+PSNR iteration 41: 44.0810471
+
+PSNR iteration 42: 44.0810585
+
+PSNR iteration 43: 44.0799026
+
+PSNR iteration 44: 44.0787697
+
+PSNR iteration 45: 44.0783463
+
+PSNR iteration 46: 44.0781174
+
+PSNR iteration 47: 44.0792389
+
+PSNR iteration 48: 44.0802231
+
+PSNR iteration 49: 44.0815544
+
+PSNR iteration 50: 44.0825958
+
+PSNR iteration 51: 44.0830383
+
+PSNR iteration 52: 44.084301
+
+PSNR iteration 53: 44.0853271
+
+PSNR iteration 54: 44.0870781
+
+PSNR iteration 55: 44.0884094
+
+PSNR iteration 56: 44.0900307
+
+PSNR iteration 57: 44.0930634
+
+PSNR iteration 58: 44.0949707
+
+PSNR iteration 59: 44.0997734
+
+PSNR iteration 60: 44.1023903
+
+PSNR iteration 61: 44.1039886
+
+PSNR iteration 62: 44.1048737
+
+PSNR iteration 63: 44.1049156
+
+PSNR iteration 64: 44.1046982
+
+PSNR iteration 65: 44.1041718
+
+PSNR iteration 66: 44.104393
+
+PSNR iteration 67: 44.1043587
+
+PSNR iteration 68: 44.0828247
+
+PSNR iteration 69: 44.0732841
+
+PSNR iteration 70: 44.0680275
+
+PSNR iteration 71: 44.0701103
+
+PSNR iteration 72: 44.0746155
+
+PSNR iteration 73: 44.080452
+
+PSNR iteration 74: 44.0857048
+
+PSNR iteration 75: 44.0898743
+
+PSNR iteration 76: 44.0928001
+
+PSNR iteration 77: 44.094593
+
+PSNR iteration 78: 44.0956039
+
+PSNR iteration 79: 44.095974
+
+PSNR iteration 80: 44.0959816
+
+PSNR iteration 81: 44.0958099
+
+PSNR iteration 82: 44.0956268
+
+PSNR iteration 83: 44.0954094
+
+PSNR iteration 84: 44.0952682
+
+PSNR iteration 85: 44.0950966
+
+PSNR iteration 86: 44.0949974
+
+PSNR iteration 87: 44.0949326
+
+PSNR iteration 88: 44.0949059
+
+PSNR iteration 89: 44.0949097
+
+PSNR iteration 90: 44.0949287
+
+PSNR iteration 91: 44.0949631
+
+PSNR iteration 92: 44.0950623
+
+PSNR iteration 93: 44.0951729
+
+PSNR iteration 94: 44.0952606
+
+PSNR iteration 95: 44.0953789
+
+PSNR iteration 96: 44.0954781
+
+PSNR iteration 97: 44.0955887
+
+PSNR iteration 98: 44.0956993
+
+PSNR iteration 99: 44.0958252
+
+PSNR iteration 100: 44.0959473
+
+PSNR iteration 101: 44.0960655
+
+PSNR iteration 102: 44.0962067
+
+PSNR iteration 103: 44.0962906
+
+PSNR iteration 104: 44.0963593
+
+PSNR iteration 105: 44.0963974
+
+PSNR iteration 106: 44.0964165
+
+PSNR iteration 107: 44.0964737
+
+PSNR iteration 108: 44.0964737
+
+PSNR iteration 109: 44.0965576
+
+PSNR iteration 110: 44.0965996
+
+PSNR iteration 111: 44.0966606
+
+PSNR iteration 112: 44.0967369
+
+PSNR iteration 113: 44.0968742
+
+PSNR iteration 114: 44.0969696
+
+PSNR iteration 115: 44.0971375
+
+PSNR iteration 116: 44.0972404
+
+PSNR iteration 117: 44.0974998
+
+PSNR iteration 118: 44.0980721
+
+PSNR iteration 119: 44.1019783
+
+PSNR iteration 120: 44.1036072
+
+PSNR iteration 121: 44.1045303
+
+PSNR iteration 122: 44.1045341
+
+PSNR iteration 123: 44.1031418
+
+PSNR iteration 124: 44.1022072
+
+PSNR iteration 125: 44.1011047
+
+PSNR iteration 126: 44.1006813
+
+PSNR iteration 127: 44.1057281
+
+PSNR iteration 128: 44.1082535
+
+PSNR iteration 129: 44.110054
+
+PSNR iteration 130: 44.1109238
+
+PSNR iteration 131: 44.1109886
+
+PSNR iteration 132: 44.1110687
+
+PSNR iteration 133: 44.1118088
+
+PSNR iteration 134: 44.1110268
+
+PSNR iteration 135: 44.1105728
+
+PSNR iteration 136: 44.1100693
+
+PSNR iteration 137: 44.1098404
+
+PSNR iteration 138: 44.1097031
+
+PSNR iteration 139: 44.1096878
+
+PSNR iteration 140: 44.108448
+
+PSNR iteration 141: 44.1066551
+
+PSNR iteration 142: 44.1059456
+
+PSNR iteration 143: 44.1054306
+
+PSNR iteration 144: 44.1012917
+
+PSNR iteration 145: 44.1000977
+
+PSNR iteration 146: 44.0989647
+
+PSNR iteration 147: 44.0994835
+
+PSNR iteration 148: 44.1000214
+
+PSNR iteration 149: 44.1008224
+
+PSNR iteration 150: 44.1014214
+
+PSNR iteration 151: 44.1018333
+
+PSNR iteration 152: 44.1019859
+
+PSNR iteration 153: 44.1020126
+
+PSNR iteration 154: 44.1019897
+
+PSNR iteration 155: 44.1019211
+
+PSNR iteration 156: 44.1018486
+
+PSNR iteration 157: 44.1017761
+
+PSNR iteration 158: 44.1017456
+
+PSNR iteration 159: 44.1018257
+
+PSNR iteration 160: 44.101799
+
+PSNR iteration 161: 44.1017265
+
+PSNR iteration 162: 44.1012115
+
+PSNR iteration 163: 44.100872
+
+PSNR iteration 164: 44.1005592
+
+PSNR iteration 165: 44.1001854
+
+PSNR iteration 166: 44.0999908
+
+PSNR iteration 167: 44.0995407
+
+PSNR iteration 168: 44.0992088
+
+PSNR iteration 169: 44.098896
+
+PSNR iteration 170: 44.0988617
+
+PSNR iteration 171: 44.098877
+
+PSNR iteration 172: 44.0989914
+
+PSNR iteration 173: 44.099144
+
+PSNR iteration 174: 44.0992355
+
+PSNR iteration 175: 44.0993042
+
+PSNR iteration 176: 44.0993309
+
+PSNR iteration 177: 44.0992966
+
+PSNR iteration 178: 44.0992203
+
+PSNR iteration 179: 44.0991554
+
+PSNR iteration 180: 44.0990791
+
+PSNR iteration 181: 44.0995674
+
+PSNR iteration 182: 44.0997772
+
+PSNR iteration 183: 44.0996819
+
+PSNR iteration 184: 44.0995064
+
+PSNR iteration 185: 44.099205
+
+PSNR iteration 186: 44.0988998
+
+PSNR iteration 187: 44.0972748
+
+PSNR iteration 188: 44.09935
+
+PSNR iteration 189: 44.0985031
+
+PSNR iteration 190: 44.0842285
+
+PSNR iteration 191: 44.0748863
+
+PSNR iteration 192: 44.0593185
+
+PSNR iteration 193: 44.0507584
+
+PSNR iteration 194: 44.0412292
+
+PSNR iteration 195: 44.0360641
+
+PSNR iteration 196: 44.0323868
+
+PSNR iteration 197: 44.0294304
+
+PSNR iteration 198: 44.0213852
+
+PSNR iteration 199: 44.0189476
+
+Parameters for process : 3165
+
+I0:300
+
+alpha:0.5
+
+beta:2
+
+sigma:100
+
+rho:9
+
+Step size:9.99999975e-05
+
+PSNR(bicubic & ground truth):44.105648
+
+PSNR iteration 0: 40.5427589
+
+PSNR iteration 1: 37.9310608
+
+PSNR iteration 2: 38.0672569
+
+PSNR iteration 3: 40.4329796
+
+PSNR iteration 4: 41.8283386
+
+PSNR iteration 5: 42.5786819
+
+PSNR iteration 6: 43.6994781
+
+PSNR iteration 7: 44.0747871
+
+PSNR iteration 8: 44.118721
+
+PSNR iteration 9: 40.4733124
+
+PSNR iteration 10: 39.0063858
+
+PSNR iteration 11: 37.6201935
+
+PSNR iteration 12: 36.603981
+
+PSNR iteration 13: 36.4840431
+
+PSNR iteration 14: 35.6855087
+
+PSNR iteration 15: 35.2711067
+
+PSNR iteration 16: 34.7716446
+
+PSNR iteration 17: 34.4382401
+
+PSNR iteration 18: 34.1989746
+
+PSNR iteration 19: 34.0349731
+
+Parameters for process : 7161
+
+I0:300
+
+alpha:0.5
+
+beta:2
+
+sigma:100
+
+rho:9
+
+Step size:9.99999997e-07
+
+PSNR(bicubic & ground truth):44.105648
+
+PSNR iteration 0: 40.5427589
+
+PSNR iteration 1: 37.7462158
+
+PSNR iteration 2: 38.1869621
+
+PSNR iteration 3: 40.7783203
+
+PSNR iteration 4: 42.4045105
+
+PSNR iteration 5: 43.5143127
+
+PSNR iteration 6: 43.9431305
+
+PSNR iteration 7: 44.1543884
+
+PSNR iteration 8: 44.1590881
+
+PSNR iteration 9: 44.1057434
+
+PSNR iteration 10: 44.022831
+
+PSNR iteration 11: 43.9662933
+
+PSNR iteration 12: 43.9456902
+
+PSNR iteration 13: 43.9352188
+
+PSNR iteration 14: 43.9278946
+
+PSNR iteration 15: 43.9323387
+
+PSNR iteration 16: 43.9404831
+
+PSNR iteration 17: 43.9512291
+
+PSNR iteration 18: 43.960659
+
+PSNR iteration 19: 43.9713745
+
+PSNR iteration 20: 43.9821205
+
+PSNR iteration 21: 44.0189018
+
+PSNR iteration 22: 44.0435677
+
+PSNR iteration 23: 44.0310287
+
+PSNR iteration 24: 43.9953842
+
+PSNR iteration 25: 43.9818077
+
+PSNR iteration 26: 43.9567375
+
+PSNR iteration 27: 43.9493866
+
+PSNR iteration 28: 43.9731407
+
+PSNR iteration 29: 43.9532394
+
+PSNR iteration 30: 43.9427376
+
+PSNR iteration 31: 43.9186058
+
+PSNR iteration 32: 43.9182091
+
+PSNR iteration 33: 43.9170418
+
+PSNR iteration 34: 43.913044
+
+PSNR iteration 35: 43.9041634
+
+PSNR iteration 36: 43.9054413
+
+PSNR iteration 37: 43.893959
+
+PSNR iteration 38: 43.8878212
+
+PSNR iteration 39: 43.9702187
+
+PSNR iteration 40: 43.9716492
+
+PSNR iteration 41: 43.9492798
+
+PSNR iteration 42: 43.932373
+
+PSNR iteration 43: 43.9094734
+
+PSNR iteration 44: 43.9014778
+
+PSNR iteration 45: 43.8840828
+
+PSNR iteration 46: 43.8600464
+
+PSNR iteration 47: 43.8397751
+
+PSNR iteration 48: 43.7694283
+
+PSNR iteration 49: 43.7264175
+
+PSNR iteration 50: 43.6742668
+
+PSNR iteration 51: 43.6468544
+
+PSNR iteration 52: 43.5950203
+
+PSNR iteration 53: 43.5750122
+
+PSNR iteration 54: 43.5411835
+
+PSNR iteration 55: 43.5233994
+
+PSNR iteration 56: 43.5318184
+
+PSNR iteration 57: 43.5246391
+
+PSNR iteration 58: 43.5282593
+
+PSNR iteration 59: 43.603466
+
+PSNR iteration 60: 43.5744743
+
+PSNR iteration 61: 43.6117783
+
+PSNR iteration 62: 43.3039322
+
+PSNR iteration 63: 43.1476097
+
+PSNR iteration 64: 42.8424988
+
+PSNR iteration 65: 42.662281
+
+PSNR iteration 66: 42.4802361
+
+PSNR iteration 67: 42.3927956
+
+PSNR iteration 68: 42.3197899
+
+PSNR iteration 69: 42.3126183
+
+PSNR iteration 70: 42.3013535
+
+PSNR iteration 71: 42.3116074
+
+PSNR iteration 72: 42.3175812
+
+PSNR iteration 73: 42.320446
+
+PSNR iteration 74: 42.3233414
+
+PSNR iteration 75: 42.4398041
+
+PSNR iteration 76: 42.4689598
+
+PSNR iteration 77: 42.5361786
+
+PSNR iteration 78: 42.36129
+
+PSNR iteration 79: 42.3237839
+
+PSNR iteration 80: 42.2511597
+
+PSNR iteration 81: 42.2222443
+
+PSNR iteration 82: 42.1475143
+
+PSNR iteration 83: 42.1234169
+
+PSNR iteration 84: 42.0557404
+
+PSNR iteration 85: 42.0277176
+
+PSNR iteration 86: 41.9854507
+
+PSNR iteration 87: 41.9005585
+
+PSNR iteration 88: 41.857193
+
+PSNR iteration 89: 41.9125595
+
+PSNR iteration 90: 41.8966179
+
+PSNR iteration 91: 41.7679024
+
+PSNR iteration 92: 41.7159195
+
+PSNR iteration 93: 41.6385078
+
+PSNR iteration 94: 41.6260033
+
+PSNR iteration 95: 41.6192703
+
+PSNR iteration 96: 41.6258774
+
+PSNR iteration 97: 41.6309776
+
+PSNR iteration 98: 41.9681778
+
+PSNR iteration 99: 42.076992
+
+PSNR iteration 100: 42.3014488
+
+PSNR iteration 101: 42.4036865
+
+PSNR iteration 102: 42.5346603
+
+PSNR iteration 103: 42.5766373
+
+PSNR iteration 104: 42.6310005
+
+PSNR iteration 105: 42.6404839
+
+PSNR iteration 106: 42.5920448
+
+PSNR iteration 107: 42.5583458
+
+PSNR iteration 108: 42.5039291
+
+PSNR iteration 109: 42.4653969
+
+PSNR iteration 110: 42.4254837
+
+PSNR iteration 111: 42.400074
+
+PSNR iteration 112: 42.3942146
+
+PSNR iteration 113: 42.6711426
+
+PSNR iteration 114: 42.7514839
+
+PSNR iteration 115: 42.9062271
+
+PSNR iteration 116: 42.9891548
+
+PSNR iteration 117: 43.0994453
+
+PSNR iteration 118: 43.1637077
+
+PSNR iteration 119: 43.1020927
+
+PSNR iteration 120: 43.0940208
+
+PSNR iteration 121: 43.067131
+
+PSNR iteration 122: 43.0544281
+
+PSNR iteration 123: 43.0578384
+
+PSNR iteration 124: 43.0368042
+
+PSNR iteration 125: 43.0184517
+
+PSNR iteration 126: 42.989624
+
+PSNR iteration 127: 42.989872
+
+PSNR iteration 128: 42.9768105
+
+PSNR iteration 129: 42.9966812
+
+PSNR iteration 130: 43.0153465
+
+PSNR iteration 131: 43.0442886
+
+PSNR iteration 132: 43.0767555
+
+PSNR iteration 133: 43.0927773
+
+PSNR iteration 134: 43.0649834
+
+PSNR iteration 135: 43.0270386
+
+PSNR iteration 136: 42.9802704
+
+PSNR iteration 137: 42.9400864
+
+PSNR iteration 138: 42.9059258
+
+PSNR iteration 139: 42.8829727
+
+PSNR iteration 140: 42.8903236
+
+PSNR iteration 141: 42.8928795
+
+PSNR iteration 142: 42.9154205
+
+PSNR iteration 143: 42.9770203
+
+PSNR iteration 144: 43.0330582
+
+PSNR iteration 145: 43.0841675
+
+PSNR iteration 146: 43.1208115
+
+PSNR iteration 147: 43.1501503
+
+PSNR iteration 148: 43.158493
+
+PSNR iteration 149: 43.1000023
+
+PSNR iteration 150: 43.01437
+
+PSNR iteration 151: 42.8361549
+
+PSNR iteration 152: 42.7101631
+
+PSNR iteration 153: 42.5688553
+
+PSNR iteration 154: 42.4711266
+
+PSNR iteration 155: 42.3935928
+
+PSNR iteration 156: 42.3524399
+
+PSNR iteration 157: 42.3232651
+
+PSNR iteration 158: 42.3171043
+
+PSNR iteration 159: 42.3178787
+
+PSNR iteration 160: 42.3541946
+
+PSNR iteration 161: 42.3700485
+
+PSNR iteration 162: 42.3927002
+
+PSNR iteration 163: 42.4003105
+
+PSNR iteration 164: 42.4115334
+
+PSNR iteration 165: 42.4062805
+
+PSNR iteration 166: 42.4075317
+
+PSNR iteration 167: 42.4033508
+
+PSNR iteration 168: 42.4027824
+
+PSNR iteration 169: 42.3937073
+
+PSNR iteration 170: 42.3838081
+
+PSNR iteration 171: 42.3755875
+
+PSNR iteration 172: 42.3086166
+
+PSNR iteration 173: 42.2848053
+
+PSNR iteration 174: 42.2464142
+
+PSNR iteration 175: 42.2299576
+
+PSNR iteration 176: 42.2107277
+
+PSNR iteration 177: 42.2023315
+
+PSNR iteration 178: 42.1942673
+
+PSNR iteration 179: 42.1972389
+
+PSNR iteration 180: 41.9778519
+
+PSNR iteration 181: 41.8918533
+
+PSNR iteration 182: 41.7195206
+
+PSNR iteration 183: 41.643055
+
+PSNR iteration 184: 41.5466919
+
+PSNR iteration 185: 41.5060997
+
+PSNR iteration 186: 41.4662247
+
+PSNR iteration 187: 41.449646
+
+PSNR iteration 188: 41.4203033
+
+PSNR iteration 189: 41.5557594
+
+PSNR iteration 190: 41.5894928
+
+PSNR iteration 191: 41.678688
+
+PSNR iteration 192: 41.7202225
+
+PSNR iteration 193: 41.7759781
+
+PSNR iteration 194: 41.8042717
+
+PSNR iteration 195: 41.8320503
+
+PSNR iteration 196: 41.8438683
+
+PSNR iteration 197: 41.8527298
+
+PSNR iteration 198: 41.8538666
+
+PSNR iteration 199: 41.8536568
+
+PSNR iteration 200: 41.8508034
+
+PSNR iteration 201: 41.8481026
+
+PSNR iteration 202: 41.8452225
+
+PSNR iteration 203: 41.8432617
+
+PSNR iteration 204: 41.841713
+
+PSNR iteration 205: 41.8411446
+
+PSNR iteration 206: 41.8409576
+
+PSNR iteration 207: 41.8413124
+
+PSNR iteration 208: 41.8418427
+
+PSNR iteration 209: 41.8428993
+
+PSNR iteration 210: 41.8504639
+
+PSNR iteration 211: 41.8540726
+
+PSNR iteration 212: 41.8598557
+
+PSNR iteration 213: 41.8633041
+
+PSNR iteration 214: 41.8671112
+
+PSNR iteration 215: 41.8694687
+
+PSNR iteration 216: 41.8716278
+
+PSNR iteration 217: 41.8729286
+
+PSNR iteration 218: 41.874073
+
+PSNR iteration 219: 41.8747673
+
+PSNR iteration 220: 41.9874153
+
+PSNR iteration 221: 42.0284119
+
+PSNR iteration 222: 42.1068459
+
+PSNR iteration 223: 42.1478233
+
+PSNR iteration 224: 42.1966362
+
+PSNR iteration 225: 42.2228432
+
+PSNR iteration 226: 42.2468338
+
+PSNR iteration 227: 42.2572784
+
+PSNR iteration 228: 42.2646942
+
+PSNR iteration 229: 42.2656593
+
+PSNR iteration 230: 42.265419
+
+PSNR iteration 231: 42.2633018
+
+PSNR iteration 232: 42.2613869
+
+PSNR iteration 233: 42.2595253
+
+PSNR iteration 234: 42.258358
+
+PSNR iteration 235: 42.2579346
+
+PSNR iteration 236: 42.2580528
+
+PSNR iteration 237: 42.2586174
+
+PSNR iteration 238: 42.2595177
+
+PSNR iteration 239: 42.2610741
+
+PSNR iteration 240: 42.2626839
+
+PSNR iteration 241: 42.2808151
+
+PSNR iteration 242: 42.5425034
+
+PSNR iteration 243: 42.6173058
+
+PSNR iteration 244: 42.7515831
+
+PSNR iteration 245: 42.8324738
+
+PSNR iteration 246: 42.9243546
+
+PSNR iteration 247: 42.9873962
+
+PSNR iteration 248: 43.0424919
+
+PSNR iteration 249: 43.0758553
+
+PSNR iteration 250: 43.0984726
+
+PSNR iteration 251: 43.1172256
+
+PSNR iteration 252: 43.1049271
+
+PSNR iteration 253: 43.0377769
+
+PSNR iteration 254: 42.9902802
+
+PSNR iteration 255: 42.9327698
+
+PSNR iteration 256: 42.9502525
+
+PSNR iteration 257: 42.9361992
+
+PSNR iteration 258: 42.9663696
+
+PSNR iteration 259: 42.9885216
+
+PSNR iteration 260: 43.02705
+
+PSNR iteration 261: 43.044632
+
+PSNR iteration 262: 43.0556564
+
+PSNR iteration 263: 42.9965057
+
+PSNR iteration 264: 42.957756
+
+PSNR iteration 265: 42.9898071
+
+PSNR iteration 266: 42.9275475
+
+PSNR iteration 267: 42.9084244
+
+PSNR iteration 268: 43.0279694
+
+PSNR iteration 269: 42.9636917
+
+PSNR iteration 270: 42.7829742
+
+PSNR iteration 271: 42.6145401
+
+PSNR iteration 272: 42.4263725
+
+PSNR iteration 273: 42.3017731
+
+PSNR iteration 274: 41.9038925
+
+PSNR iteration 275: 41.7611961
+
+PSNR iteration 276: 41.5657387
+
+PSNR iteration 277: 41.4886551
+
+PSNR iteration 278: 41.3992271
+
+PSNR iteration 279: 41.3596535
+
+PSNR iteration 280: 41.3210945
+
+PSNR iteration 281: 41.3042831
+
+PSNR iteration 282: 41.2885437
+
+PSNR iteration 283: 41.282402
+
+PSNR iteration 284: 41.2754173
+
+PSNR iteration 285: 41.2711945
+
+PSNR iteration 286: 41.2626343
+
+PSNR iteration 287: 41.2538185
+
+PSNR iteration 288: 41.2453079
+
+PSNR iteration 289: 41.2356911
+
+PSNR iteration 290: 41.2258453
+
+PSNR iteration 291: 41.2159767
+
+PSNR iteration 292: 41.206356
+
+PSNR iteration 293: 41.1969185
+
+PSNR iteration 294: 41.1868248
+
+PSNR iteration 295: 41.175705
+
+PSNR iteration 296: 41.1641235
+
+PSNR iteration 297: 41.1544151
+
+PSNR iteration 298: 41.1476135
+
+PSNR iteration 299: 41.1471214
+
+PSNR iteration 300: 41.2871552
+
+PSNR iteration 301: 41.2980614
+
+PSNR iteration 302: 41.2776451
+
+PSNR iteration 303: 41.2461739
+
+PSNR iteration 304: 41.2102089
+
+PSNR iteration 305: 41.2118568
+
+PSNR iteration 306: 41.2117729
+
+PSNR iteration 307: 41.2345963
+
+PSNR iteration 308: 41.2324982
+
+PSNR iteration 309: 41.2532997
+
+PSNR iteration 310: 41.257412
+
+PSNR iteration 311: 41.2682724
+
+PSNR iteration 312: 41.2704544
+
+PSNR iteration 313: 41.272644
+
+PSNR iteration 314: 41.2693138
+
+PSNR iteration 315: 41.2646561
+
+PSNR iteration 316: 41.2578087
+
+PSNR iteration 317: 41.2516785
+
+PSNR iteration 318: 40.5402756
+
+PSNR iteration 319: 40.1258965
+
+PSNR iteration 320: 39.3553848
+
+PSNR iteration 321: 39.0414124
+
+PSNR iteration 322: 38.6595116
+
+PSNR iteration 323: 38.5103912
+
+PSNR iteration 324: 38.3626862
+
+PSNR iteration 325: 38.318634
+
+PSNR iteration 326: 38.2801895
+
+PSNR iteration 327: 38.2808151
+
+PSNR iteration 328: 38.2803802
+
+PSNR iteration 329: 38.290863
+
+PSNR iteration 330: 38.2955055
+
+PSNR iteration 331: 38.300087
+
+PSNR iteration 332: 38.3004494
+
+PSNR iteration 333: 38.2987442
+
+PSNR iteration 334: 38.2937737
+
+PSNR iteration 335: 38.2883797
+
+PSNR iteration 336: 38.2809982
+
+PSNR iteration 337: 38.2774506
+
+PSNR iteration 338: 38.2696419
+
+PSNR iteration 339: 38.2628784
+
+PSNR iteration 340: 38.253212
+
+PSNR iteration 341: 38.2244339
+
+PSNR iteration 342: 38.2037201
+
+PSNR iteration 343: 36.598896
+
+PSNR iteration 344: 36.071064
+
+PSNR iteration 345: 35.2355003
+
+PSNR iteration 346: 34.9414406
+
+PSNR iteration 347: 34.6043091
+
+PSNR iteration 348: 34.5063095
+
+PSNR iteration 349: 34.4074059
+
+PSNR iteration 350: 34.4025078
+
+PSNR iteration 351: 34.3957062
+
+PSNR iteration 352: 34.4357033
+
+PSNR iteration 353: 34.45681
+
+PSNR iteration 354: 34.4854965
+
+PSNR iteration 355: 34.4972534
+
+PSNR iteration 356: 34.5033798
+
+PSNR iteration 357: 34.4984818
+
+PSNR iteration 358: 34.4704437
+
+PSNR iteration 359: 34.4476357
+
+PSNR iteration 360: 34.4150887
+
+PSNR iteration 361: 34.3702888
+
+PSNR iteration 362: 34.3159447
+
+PSNR iteration 363: 34.2528801
+
+PSNR iteration 364: 34.1926613
+
+PSNR iteration 365: 34.1408081
+
+PSNR iteration 366: 34.0983276
+
+PSNR iteration 367: 34.0645218
+
+PSNR iteration 368: 34.0376434
+
+PSNR iteration 369: 33.9722672
+
+PSNR iteration 370: 33.9392204
+
+PSNR iteration 371: 33.8975182
+
+PSNR iteration 372: 33.8737755
+
+PSNR iteration 373: 33.8498726
+
+PSNR iteration 374: 33.8345337
+
+PSNR iteration 375: 33.8199043
+
+PSNR iteration 376: 33.8091469
+
+PSNR iteration 377: 33.7986679
+
+PSNR iteration 378: 33.7900467
+
+PSNR iteration 379: 33.7815399
+
+PSNR iteration 380: 33.7735405
+
+PSNR iteration 381: 33.7656021
+
+PSNR iteration 382: 33.7145958
+
+PSNR iteration 383: 33.6911087
+
+PSNR iteration 384: 33.6564026
+
+PSNR iteration 385: 33.6376038
+
+PSNR iteration 386: 33.6176567
+
+PSNR iteration 387: 33.6059456
+
+PSNR iteration 388: 33.5949936
+
+PSNR iteration 389: 33.5880051
+
+PSNR iteration 390: 33.5816154
+
+PSNR iteration 391: 33.5767784
+
+PSNR iteration 392: 33.5722656
+
+PSNR iteration 393: 33.5683174
+
+PSNR iteration 394: 33.5643349
+
+PSNR iteration 395: 33.5605774
+
+PSNR iteration 396: 33.5567093
+
+PSNR iteration 397: 33.5529976
+
+PSNR iteration 398: 33.5492668
+
+PSNR iteration 399: 33.5457001
+
+PSNR iteration 400: 33.5422134
+
+PSNR iteration 401: 33.5387306
+
+PSNR iteration 402: 33.5353355
+
+PSNR iteration 403: 33.5320969
+
+PSNR iteration 404: 33.5289955
+
+PSNR iteration 405: 33.525898
+
+PSNR iteration 406: 33.5229034
+
+PSNR iteration 407: 33.5199509
+
+PSNR iteration 408: 33.5166168
+
+PSNR iteration 409: 33.5131989
+
+PSNR iteration 410: 33.5094681
+
+PSNR iteration 411: 33.5059319
+
+PSNR iteration 412: 33.5024338
+
+PSNR iteration 413: 33.4992561
+
+PSNR iteration 414: 33.5430679
+
+PSNR iteration 415: 33.5577354
+
+PSNR iteration 416: 33.585289
+
+PSNR iteration 417: 33.5958481
+
+PSNR iteration 418: 33.6079483
+
+PSNR iteration 419: 33.6113243
+
+PSNR iteration 420: 33.6141472
+
+PSNR iteration 421: 33.6129303
+
+PSNR iteration 422: 33.6112976
+
+PSNR iteration 423: 33.5563698
+
+PSNR iteration 424: 33.5340805
+
+PSNR iteration 425: 33.4977455
+
+PSNR iteration 426: 33.480442
+
+PSNR iteration 427: 33.4617882
+
+PSNR iteration 428: 33.4530563
+
+PSNR iteration 429: 33.4452324
+
+PSNR iteration 430: 33.4421005
+
+PSNR iteration 431: 33.4396935
+
+PSNR iteration 432: 33.4391403
+
+PSNR iteration 433: 33.4387016
+
+PSNR iteration 434: 33.4387321
+
+PSNR iteration 435: 33.4385567
+
+PSNR iteration 436: 33.4382935
+
+PSNR iteration 437: 33.4377785
+
+PSNR iteration 438: 33.4370575
+
+PSNR iteration 439: 33.4361229
+
+PSNR iteration 440: 33.4350281
+
+PSNR iteration 441: 33.3887901
+
+PSNR iteration 442: 33.3707657
+
+PSNR iteration 443: 33.3407021
+
+PSNR iteration 444: 33.2848015
+
+PSNR iteration 445: 33.2541084
+
+PSNR iteration 446: 33.2205772
+
+PSNR iteration 447: 33.2029839
+
+PSNR iteration 448: 33.1880684
+
+PSNR iteration 449: 33.1728058
+
+PSNR iteration 450: 33.1586113
+
+PSNR iteration 451: 33.1455421
+
+PSNR iteration 452: 33.1320305
+
+PSNR iteration 453: 33.1101799
+
+PSNR iteration 454: 33.0985947
+
+PSNR iteration 455: 33.0902176
+
+PSNR iteration 456: 33.0868454
+
+PSNR iteration 457: 33.0459557
+
+PSNR iteration 458: 33.0313759
+
+PSNR iteration 459: 33.0063667
+
+PSNR iteration 460: 32.9960861
+
+PSNR iteration 461: 32.9843788
+
+PSNR iteration 462: 32.9799347
+
+PSNR iteration 463: 33.0131111
+
+PSNR iteration 464: 33.0235672
+
+PSNR iteration 465: 33.0460815
+
+PSNR iteration 466: 33.0552368
+
+PSNR iteration 467: 33.06633
+
+PSNR iteration 468: 33.0220413
+
+PSNR iteration 469: 33.0067596
+
+PSNR iteration 470: 32.9740562
+
+PSNR iteration 471: 32.959816
+
+PSNR iteration 472: 32.9427185
+
+PSNR iteration 473: 32.9372597
+
+PSNR iteration 474: 32.930706
+
+PSNR iteration 475: 32.9293365
+
+PSNR iteration 476: 32.9276772
+
+PSNR iteration 477: 32.9027214
+
+PSNR iteration 478: 32.8928375
+
+PSNR iteration 479: 32.8766403
+
+PSNR iteration 480: 32.8696976
+
+PSNR iteration 481: 32.8622665
+
+PSNR iteration 482: 32.8592987
+
+PSNR iteration 483: 32.8568268
+
+PSNR iteration 484: 32.8917656
+
+PSNR iteration 485: 32.9052773
+
+PSNR iteration 486: 32.9320717
+
+PSNR iteration 487: 32.9435654
+
+PSNR iteration 488: 32.9585075
+
+PSNR iteration 489: 32.9616928
+
+PSNR iteration 490: 32.9664307
+
+PSNR iteration 491: 32.9657516
+
+PSNR iteration 492: 32.9656563
+
+PSNR iteration 493: 32.9634781
+
+PSNR iteration 494: 32.9617271
+
+PSNR iteration 495: 32.9594078
+
+PSNR iteration 496: 32.9590263
+
+PSNR iteration 497: 32.9683456
+
+PSNR iteration 498: 32.9988403
+
+PSNR iteration 499: 33.1401939
+
+Parameters for process : 3700
+
+I0:60000
+
+alpha:0.400000006
+
+beta:9.99999975e-05
+
+sigma:200
+
+rho:1
+
+Step size:0.100000001
+
+PSNR(bicubic & ground truth):-3.79600668
+
+PSNR iteration 0: -7.52382135
+
+Parameters for process : 5971
+
+I0:60000
+
+alpha:0.400000006
+
+beta:9.99999975e-05
+
+sigma:200
+
+rho:1
+
+Step size:0.100000001
+
+PSNR(bicubic & ground truth):-3.76207733
+
+PSNR iteration 0: -7.48989153
+
+Parameters for process : 6125
+
+I0:250
+
+alpha:4
+
+beta:4
+
+sigma:350
+
+rho:1
+
+Step size:9.99999975e-06
+
+PSNR(bicubic & ground truth):-3.76207733
+
+PSNR iteration 0: -7.48991823
+
+PSNR iteration 1: -39.780899
+
+PSNR iteration 2: -37.157238
+
+PSNR iteration 3: -37.157238
+
+PSNR iteration 4: -37.157238
+
+PSNR iteration 5: -37.157238
+
+PSNR iteration 6: -37.0979385
+
+PSNR iteration 7: -37.0639458
+
+PSNR iteration 8: -37.0911026
+
+PSNR iteration 9: -37.0987473
+
+PSNR iteration 10: -37.0978966
+
+PSNR iteration 11: -37.0970993
+
+PSNR iteration 12: -37.0970268
+
+PSNR iteration 13: -37.0970802
+
+PSNR iteration 14: -37.0970955
+
+PSNR iteration 15: -37.0970955
+
+Parameters for process : 8998
+
+I0:60000
+
+alpha:0.400000006
+
+beta:9.99999975e-05
+
+sigma:200
+
+rho:1
+
+Step size:0.100000001
+
+PSNR(bicubic & ground truth):-3.76207733
+
+PSNR iteration 0: -7.48989153
+
+Parameters for process : 9157
+
+I0:60000
+
+alpha:0.400000006
+
+beta:0.100000001
+
+sigma:200
+
+rho:1
+
+Step size:9.99999975e-06
+
+PSNR(bicubic & ground truth):-3.76207733
+
+PSNR iteration 0: -7.48989153
+
+PSNR iteration 1: -9.93294811
+
+PSNR iteration 2: -7.4264822
+
+PSNR iteration 3: -5.07188606
+
+PSNR iteration 4: -4.06534386
+
+PSNR iteration 5: -3.5389111
+
+PSNR iteration 6: -3.36978936
+
+PSNR iteration 7: -3.40657878
+
+PSNR iteration 8: -3.53984046
+
+PSNR iteration 9: -3.66564202
+
+PSNR iteration 10: -3.76395488
+
+PSNR iteration 11: -3.81627941
+
+PSNR iteration 12: -3.83954883
+
+PSNR iteration 13: -3.84038758
+
+Parameters for process : 10516
+
+I0:60000
+
+alpha:0.400000006
+
+beta:0.100000001
+
+sigma:200
+
+rho:1
+
+Step size:0.100000001
+
+PSNR(bicubic & ground truth):44.4026566
+
+PSNR iteration 0: 40.6748428
+
+PSNR iteration 1: 38.2317467
+
+PSNR iteration 2: 40.7381783
+
+PSNR iteration 3: 43.0926514
+
+PSNR iteration 4: 44.0992546
+
+PSNR iteration 5: 44.6255531
+
+PSNR iteration 6: 44.7945595
+
+PSNR iteration 7: 44.7576065
+
+PSNR iteration 8: 44.6243401
+
+PSNR iteration 9: 44.498558
+
+PSNR iteration 10: 44.4001808
+
+PSNR iteration 11: 44.3478279
+
+PSNR iteration 12: 44.3244667
+
+PSNR iteration 13: 44.3237343
+
+PSNR iteration 14: 44.3322945
+
+PSNR iteration 15: 44.3460617
+
+PSNR iteration 16: 44.3592567
+
+PSNR iteration 17: 44.3710022
+
+PSNR iteration 18: 44.3797417
+
+PSNR iteration 19: 44.3861198
+
+Parameters for process : 12572
+
+I0:60000
+
+alpha:0.400000006
+
+beta:0.100000001
+
+sigma:200
+
+rho:5
+
+Step size:9.99999975e-06
+
+PSNR(bicubic & ground truth):44.4026566
+
+PSNR iteration 0: 40.6748352
+
+PSNR iteration 1: 38.299015
+
+PSNR iteration 2: 42.9708939
+
+PSNR iteration 3: 43.5162964
+
+PSNR iteration 4: 44.5910988
+
+PSNR iteration 5: 44.8352394
+
+PSNR iteration 6: 44.9442177
+
+PSNR iteration 7: 44.8082314
+
+PSNR iteration 8: 44.6719742
+
+PSNR iteration 9: 44.5356598
+
+PSNR iteration 10: 44.4472427
+
+PSNR iteration 11: 44.3922043
+
+PSNR iteration 12: 44.3670197
+
+PSNR iteration 13: 44.3595428
+
+PSNR iteration 14: 44.3623619
+
+PSNR iteration 15: 44.3697281
+
+PSNR iteration 16: 44.3779945
+
+PSNR iteration 17: 44.3857346
+
+PSNR iteration 18: 44.3918915
+
+Parameters for process : 13981
+
+I0:60000
+
+alpha:0.400000006
+
+beta:9.99999975e-05
+
+sigma:200
+
+rho:1
+
+Step size:0.100000001
+
+PSNR(bicubic & ground truth):44.4026566
+
+PSNR iteration 0: 40.6748428
+
+PSNR iteration 1: 38.3076172
+
+PSNR iteration 2: 43.3245049
+
+PSNR iteration 3: 43.6224327
+
+PSNR iteration 4: 44.7077217
+
+PSNR iteration 5: 44.8797798
+
+PSNR iteration 6: 44.9685364
+
+PSNR iteration 7: 44.8022575
+
+PSNR iteration 8: 44.6634331
+
+PSNR iteration 9: 44.5227585
+
+PSNR iteration 10: 44.435688
+
+PSNR iteration 11: 44.3813019
+
+PSNR iteration 12: 44.3574295
+
+PSNR iteration 13: 44.3516159
+
+PSNR iteration 14: 44.3558693
+
+PSNR iteration 15: 44.3647308
+
+PSNR iteration 16: 44.3742294
+
+PSNR iteration 17: 44.3831863
+
+PSNR iteration 18: 44.3901939
+
+PSNR iteration 19: 44.3954315
+
+PSNR iteration 20: 44.3989716
+
+PSNR iteration 21: 44.4013252
+
+PSNR iteration 22: 44.402626
+
+PSNR iteration 23: 44.4034119
+
+PSNR iteration 24: 44.4036636
+
+PSNR iteration 25: 44.4036407
+
+PSNR iteration 26: 44.4034691
+
+PSNR iteration 27: 44.4031639
+
+PSNR iteration 28: 44.4028893
+
+PSNR iteration 29: 44.4026337
+
+PSNR iteration 30: 44.4023514
+
+PSNR iteration 31: 44.4021721
+
+PSNR iteration 32: 44.4020271
+
+PSNR iteration 33: 44.4018631
+
+PSNR iteration 34: 44.4017792
+
+PSNR iteration 35: 44.4017105
+
+PSNR iteration 36: 44.4016609
+
+PSNR iteration 37: 44.401577
+
+PSNR iteration 38: 44.4015274
+
+PSNR iteration 39: 44.4014778
+
+PSNR iteration 40: 44.4014854
+
+PSNR iteration 41: 44.4014359
+
+PSNR iteration 42: 44.4014091
+
+PSNR iteration 43: 44.4013863
+
+PSNR iteration 44: 44.4013786
+
+PSNR iteration 45: 44.4013214
+
+PSNR iteration 46: 44.4013023
+
+PSNR iteration 47: 44.4012871
+
+PSNR iteration 48: 44.4012642
+
+PSNR iteration 49: 44.4012527
+
